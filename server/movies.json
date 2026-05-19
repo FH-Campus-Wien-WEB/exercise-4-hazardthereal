@@ -1,30 +1,5 @@
 {
   "joe": {
-    "tt0399295": {
-      "imdbID": "tt0399295",
-      "Title": "Lord of War",
-      "Released": "2005-09-15",
-      "Runtime": 122,
-      "Genres": [
-        "Crime",
-        "Drama"
-      ],
-      "Directors": [
-        "Andrew Niccol"
-      ],
-      "Writers": [
-        "Andrew Niccol"
-      ],
-      "Actors": [
-        "Nicolas Cage",
-        "Ethan Hawke",
-        "Jared Leto"
-      ],
-      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 62,
-      "imdbRating": 7.6
-    },
     "tt0167260": {
       "imdbID": "tt0167260",
       "Title": "The Lord of the Rings: The Return of the King",
@@ -80,59 +55,6 @@
       "Metascore": 67,
       "imdbRating": 6.9
     },
-    "tt14824600": {
-      "imdbID": "tt14824600",
-      "Title": "The Lord of the Rings: The War of the Rohirrim",
-      "Year": 2024,
-      "Released": "13 Dec 2024",
-      "Runtime": 134,
-      "Genres": [
-        "Animation",
-        "Action",
-        "Adventure"
-      ],
-      "Directors": [
-        "Kenji Kamiyama"
-      ],
-      "Writers": [
-        "Jeffrey Addiss",
-        "Will Matthews",
-        "Phoebe Gittins"
-      ],
-      "Actors": [
-        "Brian Cox",
-        "Gaia Wise",
-        "Miranda Otto"
-      ],
-      "Plot": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the H...",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4OTgyMDYtMDA0NC00ZjJhLWJiOGMtMjlkM2ZjNTgxNGI0XkEyXkFqcGc@._V1_SX300.jpg"
-    },
-    "tt0367882": {
-      "imdbID": "tt0367882",
-      "Title": "Indiana Jones and the Kingdom of the Crystal Skull",
-      "Year": 2008,
-      "Released": "22 May 2008",
-      "Runtime": 122,
-      "Genres": [
-        "Action",
-        "Adventure"
-      ],
-      "Directors": [
-        "Steven Spielberg"
-      ],
-      "Writers": [
-        "David Koepp",
-        "George Lucas",
-        "Jeff Nathanson"
-      ],
-      "Actors": [
-        "Harrison Ford",
-        "Cate Blanchett",
-        "Shia LaBeouf"
-      ],
-      "Plot": "In 1957, Indiana Jones is called back into action when he becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYTFiMDk2NzItZDU5Ni00ZjBjLTkzYWQtYzcwZDIwMWZjMmZiXkEyXkFqcGc@._V1_SX300.jpg"
-    },
     "tt0499549": {
       "imdbID": "tt0499549",
       "Title": "Avatar",
@@ -158,32 +80,30 @@
       "Plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
       "Poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg"
     },
-    "tt0172495": {
-      "imdbID": "tt0172495",
-      "Title": "Gladiator",
-      "Year": 2000,
-      "Released": "05 May 2000",
-      "Runtime": 155,
+    "tt11378946": {
+      "imdbID": "tt11378946",
+      "Title": "Michael",
+      "Year": 2026,
+      "Released": "24 Apr 2026",
+      "Runtime": 127,
       "Genres": [
-        "Action",
-        "Adventure",
-        "Drama"
+        "Biography",
+        "Drama",
+        "History"
       ],
       "Directors": [
-        "Ridley Scott"
+        "Antoine Fuqua"
       ],
       "Writers": [
-        "David Franzoni",
-        "John Logan",
-        "William Nicholson"
+        "John Logan"
       ],
       "Actors": [
-        "Russell Crowe",
-        "Joaquin Phoenix",
-        "Connie Nielsen"
+        "Jaafar Jackson",
+        "Nia Long",
+        "Colman Domingo"
       ],
-      "Plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+      "Plot": "The early life of the famous musician Michael Jackson, known as the King of Pop.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     }
   },
   "jane": {
