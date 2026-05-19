@@ -79,6 +79,111 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 67,
       "imdbRating": 6.9
+    },
+    "tt14824600": {
+      "imdbID": "tt14824600",
+      "Title": "The Lord of the Rings: The War of the Rohirrim",
+      "Year": 2024,
+      "Released": "13 Dec 2024",
+      "Runtime": 134,
+      "Genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "Directors": [
+        "Kenji Kamiyama"
+      ],
+      "Writers": [
+        "Jeffrey Addiss",
+        "Will Matthews",
+        "Phoebe Gittins"
+      ],
+      "Actors": [
+        "Brian Cox",
+        "Gaia Wise",
+        "Miranda Otto"
+      ],
+      "Plot": "A sudden attack by Wulf, a clever and traitorous lord of Rohan seeking vengeance for the death of his father, forces Helm Hammerhand, the King of Rohan, and his people to make a daring last stand in the ancient stronghold of the H...",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4OTgyMDYtMDA0NC00ZjJhLWJiOGMtMjlkM2ZjNTgxNGI0XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "tt0367882": {
+      "imdbID": "tt0367882",
+      "Title": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "Year": 2008,
+      "Released": "22 May 2008",
+      "Runtime": 122,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Directors": [
+        "Steven Spielberg"
+      ],
+      "Writers": [
+        "David Koepp",
+        "George Lucas",
+        "Jeff Nathanson"
+      ],
+      "Actors": [
+        "Harrison Ford",
+        "Cate Blanchett",
+        "Shia LaBeouf"
+      ],
+      "Plot": "In 1957, Indiana Jones is called back into action when he becomes entangled in a Soviet plot to uncover the secret behind mysterious artifacts known as the Crystal Skulls.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTFiMDk2NzItZDU5Ni00ZjBjLTkzYWQtYzcwZDIwMWZjMmZiXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "tt0499549": {
+      "imdbID": "tt0499549",
+      "Title": "Avatar",
+      "Year": 2009,
+      "Released": "18 Dec 2009",
+      "Runtime": 162,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "James Cameron"
+      ],
+      "Writers": [
+        "James Cameron"
+      ],
+      "Actors": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver"
+      ],
+      "Plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "tt0172495": {
+      "imdbID": "tt0172495",
+      "Title": "Gladiator",
+      "Year": 2000,
+      "Released": "05 May 2000",
+      "Runtime": 155,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "Directors": [
+        "Ridley Scott"
+      ],
+      "Writers": [
+        "David Franzoni",
+        "John Logan",
+        "William Nicholson"
+      ],
+      "Actors": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+      ],
+      "Plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     }
   },
   "jane": {
@@ -166,6 +271,32 @@
       "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
       "Metascore": 88,
       "imdbRating": 8.5
+    },
+    "tt0816692": {
+      "imdbID": "tt0816692",
+      "Title": "Interstellar",
+      "Year": 2014,
+      "Released": "07 Nov 2014",
+      "Runtime": 169,
+      "Genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Christopher Nolan"
+      ],
+      "Writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+      ],
+      "Actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
     }
   }
 }

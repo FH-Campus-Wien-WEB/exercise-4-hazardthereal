@@ -181,39 +181,33 @@ app.get("/search", requireLogin, function (req, res) {
     .then(apiRes => {
       clearTimeout(timeoutId);
       if (!apiRes.ok) {
-        return res.sendStatus(apiRes.status);
+        throw new Error(`OMDb API error: ${apiRes.status}`);
       }
-      return apiRes.text().then(data => {
-        let response;
-        try {
-          response = JSON.parse(data);
-        } catch (parseError) {
-          console.error('Failed to parse OMDb response:', parseError);
-          return res.sendStatus(500);
-        }
-
-        if (response.Response === 'True') {
-          const results = response.Search
-            .filter(movie => !movieModel.hasUserMovie(username, movie.imdbID))
-            .map(movie => ({
-              Title: movie.Title,
-              imdbID: movie.imdbID,
-              Year: isNaN(movie.Year) ? null : parseInt(movie.Year)
-            }));
-          res.send(results);
-        } else {
-          res.send([]);
-        }
-      });
+      return apiRes.json();
+    })
+    .then(response => {
+      if (response.Response === 'True') {
+        const results = response.Search
+          .filter(movie => !movieModel.hasUserMovie(username, movie.imdbID))
+          .map(movie => ({
+            Title: movie.Title,
+            imdbID: movie.imdbID,
+            Year: isNaN(movie.Year) ? null : parseInt(movie.Year)
+          }));
+        res.send(results);
+      } else {
+        res.send([]);
+      }
     })
     .catch((err) => {
       clearTimeout(timeoutId);
       if (err.name === 'AbortError') {
         console.error('OMDb API request timeout');
-        return res.sendStatus(504);
+        res.sendStatus(504);
+      } else {
+        console.error('OMDb API error:', err);
+        res.sendStatus(500);
       }
-      console.error('OMDb API error:', err);
-      res.sendStatus(500);
     });
 });
 

@@ -87,12 +87,14 @@ function addMovie(imdbID) {
   fetch(`/movies/${imdbID}`, { method: 'PUT' })
     .then(response => {
       if (response.status === 201) {
-        const resultElement = document.querySelector(`[data-imdb-id="${imdbID}"]`);
+        // Remove the movie from search results
+        const resultElement = document.querySelector(`#${imdbID}`);
         if (resultElement) {
           resultElement.remove();
         }
-        loadMovies();
+        // Update genres and main list in the background without blocking the search
         updateGenres();
+        loadMovies();
       } else if (response.status === 200) {
         alert(messages.movieAlreadyInCollection);
       } else {
