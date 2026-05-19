@@ -139,7 +139,6 @@ app.put("/movies/:imdbID", requireLogin, function (req, res) {
         res.sendStatus(500);
       });
   } else {
-    movieModel.setUserMovie(username, imdbID, req.body);
     res.sendStatus(200);
   }
 });

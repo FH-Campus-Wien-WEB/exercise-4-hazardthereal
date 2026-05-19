@@ -4,8 +4,9 @@ export class ElementBuilder {
   }
 
   id(id) {
-    this.element.dataset.imdbID = id;
-    return this;
+  this.element.id = id;
+  this.element.dataset.imdbID = id;
+  return this;
   }
 
   class(clazz) {

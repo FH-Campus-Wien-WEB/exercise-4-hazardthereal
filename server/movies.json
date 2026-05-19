@@ -187,91 +187,6 @@
     }
   },
   "jane": {
-    "tt1972591": {
-      "imdbID": "tt1972591",
-      "Title": "King Arthur: Legend of the Sword",
-      "Released": "2017-05-11",
-      "Runtime": 126,
-      "Genres": [
-        "Action",
-        "Adventure",
-        "Drama"
-      ],
-      "Directors": [
-        "Guy Ritchie"
-      ],
-      "Writers": [
-        "Joby Harold",
-        "Guy Ritchie",
-        "Lionel Wigram"
-      ],
-      "Actors": [
-        "Charlie Hunnam",
-        "Astrid Bergès-Frisbey",
-        "Jude Law"
-      ],
-      "Plot": "Robbed of his birthright, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword from the stone, he is forced to acknowledge his true legacy - whether he likes it or not.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_SX300.jpg",
-      "Metascore": 41,
-      "imdbRating": 6.7
-    },
-    "tt0360717": {
-      "imdbID": "tt0360717",
-      "Title": "King Kong",
-      "Released": "2005-12-13",
-      "Runtime": 187,
-      "Genres": [
-        "Action",
-        "Adventure",
-        "Romance"
-      ],
-      "Directors": [
-        "Peter Jackson"
-      ],
-      "Writers": [
-        "Fran Walsh",
-        "Philippa Boyens",
-        "Peter Jackson"
-      ],
-      "Actors": [
-        "Naomi Watts",
-        "Jack Black",
-        "Adrien Brody"
-      ],
-      "Plot": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 81,
-      "imdbRating": 7.2
-    },
-    "tt0110357": {
-      "imdbID": "tt0110357",
-      "Title": "The Lion King",
-      "Released": "1994-06-23",
-      "Runtime": 88,
-      "Genres": [
-        "Animation",
-        "Adventure",
-        "Drama"
-      ],
-      "Directors": [
-        "Roger Allers",
-        "Rob Minkoff"
-      ],
-      "Writers": [
-        "Irene Mecchi",
-        "Jonathan Roberts",
-        "Linda Woolverton"
-      ],
-      "Actors": [
-        "Matthew Broderick",
-        "Jeremy Irons",
-        "James Earl Jones"
-      ],
-      "Plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 88,
-      "imdbRating": 8.5
-    },
     "tt0816692": {
       "imdbID": "tt0816692",
       "Title": "Interstellar",
@@ -297,6 +212,109 @@
       ],
       "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
       "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "tt0076759": {
+      "imdbID": "tt0076759",
+      "Title": "Star Wars: Episode IV - A New Hope",
+      "Year": 1977,
+      "Released": "25 May 1977",
+      "Runtime": 121,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "George Lucas"
+      ],
+      "Writers": [
+        "George Lucas"
+      ],
+      "Actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ],
+      "Plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth ...",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "tt11378946": {
+      "imdbID": "tt11378946",
+      "Title": "Michael",
+      "Year": 2026,
+      "Released": "24 Apr 2026",
+      "Runtime": 127,
+      "Genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "Directors": [
+        "Antoine Fuqua"
+      ],
+      "Writers": [
+        "John Logan"
+      ],
+      "Actors": [
+        "Jaafar Jackson",
+        "Nia Long",
+        "Colman Domingo"
+      ],
+      "Plot": "The early life of the famous musician Michael Jackson, known as the King of Pop.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzllNmRlN2EtMDQyOC00ODJjLTg4OWQtZDNmNGU3YzlkNjc1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    "tt0097576": {
+      "imdbID": "tt0097576",
+      "Title": "Indiana Jones and the Last Crusade",
+      "Year": 1989,
+      "Released": "24 May 1989",
+      "Runtime": 127,
+      "Genres": [
+        "Action",
+        "Adventure"
+      ],
+      "Directors": [
+        "Steven Spielberg"
+      ],
+      "Writers": [
+        "Jeffrey Boam",
+        "George Lucas",
+        "Menno Meyjes"
+      ],
+      "Actors": [
+        "Harrison Ford",
+        "Sean Connery",
+        "Alison Doody"
+      ],
+      "Plot": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    "tt0080684": {
+      "imdbID": "tt0080684",
+      "Title": "Star Wars: Episode V - The Empire Strikes Back",
+      "Year": 1980,
+      "Released": "18 Jun 1980",
+      "Runtime": 124,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Irvin Kershner"
+      ],
+      "Writers": [
+        "Leigh Brackett",
+        "Lawrence Kasdan",
+        "George Lucas"
+      ],
+      "Actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ],
+      "Plot": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_SX300.jpg"
     }
   }
 }

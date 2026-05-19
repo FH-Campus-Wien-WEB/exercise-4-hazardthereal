@@ -87,12 +87,10 @@ function addMovie(imdbID) {
   fetch(`/movies/${imdbID}`, { method: 'PUT' })
     .then(response => {
       if (response.status === 201) {
-        // Remove the movie from search results
-        const resultElement = document.querySelector(`#${imdbID}`);
-        if (resultElement) {
-          resultElement.remove();
-        }
-        // Update genres and main list in the background without blocking the search
+        document.getElementById('searchDialog').close();
+        document.getElementById('searchForm').reset();
+        document.getElementById('searchResults').innerHTML = '';
+
         updateGenres();
         loadMovies();
       } else if (response.status === 200) {
@@ -286,7 +284,14 @@ window.onload = function () {
   });
 
   document.getElementById('cancelSearch').addEventListener('click', () => {
-    document.getElementById('searchDialog').close();
+  document.getElementById('searchForm').reset();
+  document.getElementById('searchResults').innerHTML = '';
+  document.getElementById('searchDialog').close();
+  });
+
+  document.getElementById('searchDialog').addEventListener('close', () => {
+  document.getElementById('searchForm').reset();
+  document.getElementById('searchResults').innerHTML = '';
   });
 };
 
